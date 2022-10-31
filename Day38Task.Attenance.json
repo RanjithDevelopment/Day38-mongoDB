@@ -1,0 +1,15 @@
+{"_id":{"$oid":"635fdd3287bd814aae3e7f8f"},"Id":{"$numberInt":"15"},"user_id":{"$numberInt":"15"},"absent":"6 oct-2020"}
+{"_id":{"$oid":"635fdd3287bd814aae3e7f8e"},"Id":{"$numberInt":"14"},"user_id":{"$numberInt":"14"},"absent":"10 oct-2020"}
+{"_id":{"$oid":"635fdd3287bd814aae3e7f8d"},"Id":{"$numberInt":"13"},"user_id":{"$numberInt":"13"},"absent":"8 oct-2020"}
+{"_id":{"$oid":"635fdd3287bd814aae3e7f8c"},"Id":{"$numberInt":"12"},"user_id":{"$numberInt":"12"},"absent":"2 oct-2020"}
+{"_id":{"$oid":"635fdd3287bd814aae3e7f8b"},"Id":{"$numberInt":"11"},"user_id":{"$numberInt":"11"},"absent":"13 oct-2020"}
+{"_id":{"$oid":"635fdd3287bd814aae3e7f8a"},"Id":{"$numberInt":"10"},"user_id":{"$numberInt":"10"},"absent":"11 oct-2020"}
+{"_id":{"$oid":"635fdd3287bd814aae3e7f89"},"Id":{"$numberInt":"9"},"user_id":{"$numberInt":"9"},"absent":"9 oct-2020"}
+{"_id":{"$oid":"635fdd3287bd814aae3e7f88"},"Id":{"$numberInt":"8"},"user_id":{"$numberInt":"8"},"absent":"7 oct-2020"}
+{"_id":{"$oid":"635fdd3287bd814aae3e7f87"},"Id":{"$numberInt":"7"},"user_id":{"$numberInt":"7"},"absent":"5 oct-2020"}
+{"_id":{"$oid":"635fdd3287bd814aae3e7f86"},"Id":{"$numberInt":"6"},"user_id":{"$numberInt":"6"},"absent":"1 oct-2020"}
+{"_id":{"$oid":"635fdd3287bd814aae3e7f85"},"Id":{"$numberInt":"5"},"user_id":{"$numberInt":"5"},"absent":"29 oct-2020"}
+{"_id":{"$oid":"635fdd3287bd814aae3e7f84"},"Id":{"$numberInt":"4"},"user_id":{"$numberInt":"4"},"absent":"30 oct-2020"}
+{"_id":{"$oid":"635fdd3287bd814aae3e7f83"},"Id":{"$numberInt":"3"},"user_id":{"$numberInt":"3"},"absent":"18 oct-2020"}
+{"_id":{"$oid":"635fdd3287bd814aae3e7f82"},"Id":{"$numberInt":"2"},"user_id":{"$numberInt":"2"},"absent":"16 oct-2020"}
+{"_id":{"$oid":"635fdd3287bd814aae3e7f81"},"Id":{"$numberInt":"1"},"user_id":{"$numberInt":"1"},"absent":"15 oct-2020"}

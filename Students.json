@@ -1,0 +1,15 @@
+{"_id":{"$oid":"635128e378665759dfb08a3c"},"user_id":{"$numberInt":"15"},"Name":"divakar","company_id":{"$numberInt":"4"},"mentor_id":{"$numberInt":"2"},"codekata_submission":{"$numberInt":"90"}}
+{"_id":{"$oid":"635128e378665759dfb08a3b"},"user_id":{"$numberInt":"14"},"Name":"sarvanan","company_id":{"$numberInt":"1"},"mentor_id":{"$numberInt":"2"},"codekata_submission":{"$numberInt":"80"}}
+{"_id":{"$oid":"635128e378665759dfb08a3a"},"user_id":{"$numberInt":"13"},"Name":"uday","company_id":{"$numberInt":"5"},"mentor_id":{"$numberInt":"2"},"codekata_submission":{"$numberInt":"40"}}
+{"_id":{"$oid":"635128e378665759dfb08a39"},"user_id":{"$numberInt":"12"},"Name":"kathir","company_id":{"$numberInt":"4"},"mentor_id":{"$numberInt":"2"},"codekata_submission":{"$numberInt":"160"}}
+{"_id":{"$oid":"635128e378665759dfb08a38"},"user_id":{"$numberInt":"11"},"Name":"hari","company_id":{"$numberInt":"5"},"mentor_id":{"$numberInt":"2"},"codekata_submission":{"$numberInt":"68"}}
+{"_id":{"$oid":"635128e378665759dfb08a37"},"user_id":{"$numberInt":"10"},"Name":"kiran","company_id":{"$numberInt":"2"},"mentor_id":{"$numberInt":"2"},"codekata_submission":{"$numberInt":"120"}}
+{"_id":{"$oid":"635128e378665759dfb08a36"},"user_id":{"$numberInt":"9"},"Name":"Ajith","company_id":{"$numberInt":"1"},"mentor_id":{"$numberInt":"2"},"codekata_submission":{"$numberInt":"59"}}
+{"_id":{"$oid":"635128e378665759dfb08a35"},"user_id":{"$numberInt":"8"},"Name":"suriya","company_id":{"$numberInt":"4"},"mentor_id":{"$numberInt":"2"},"codekata_submission":{"$numberInt":"100"}}
+{"_id":{"$oid":"635128e378665759dfb08a34"},"user_id":{"$numberInt":"7"},"Name":"vikram","company_id":{"$numberInt":"5"},"mentor_id":{"$numberInt":"2"},"codekata_submission":{"$numberInt":"86"}}
+{"_id":{"$oid":"635128e378665759dfb08a33"},"user_id":{"$numberInt":"6"},"Name":"rajini","company_id":{"$numberInt":"4"},"mentor_id":{"$numberInt":"2"},"codekata_submission":{"$numberInt":"95"}}
+{"_id":{"$oid":"635128e378665759dfb08a32"},"user_id":{"$numberInt":"5"},"Name":"kamal","company_id":{"$numberInt":"3"},"mentor_id":{"$numberInt":"2"},"codekata_submission":{"$numberInt":"60"}}
+{"_id":{"$oid":"635128e378665759dfb08a31"},"user_id":{"$numberInt":"4"},"Name":"logu","company_id":{"$numberInt":"2"},"mentor_id":{"$numberInt":"2"},"codekata_submission":{"$numberInt":"40"}}
+{"_id":{"$oid":"635128e378665759dfb08a30"},"user_id":{"$numberInt":"3"},"Name":"Nisaanth","company_id":{"$numberInt":"5"},"mentor_id":{"$numberInt":"2"},"codekata_submission":{"$numberInt":"50"}}
+{"_id":{"$oid":"635128e378665759dfb08a2f"},"user_id":{"$numberInt":"2"},"Name":"Kandhavel","company_id":{"$numberInt":"1"},"mentor_id":{"$numberInt":"1"},"codekata_submission":{"$numberInt":"100"}}
+{"_id":{"$oid":"635128e378665759dfb08a2e"},"user_id":{"$numberInt":"1"},"Name":"Ranjith","company_id":{"$numberInt":"3"},"mentor_id":{"$numberInt":"2"},"codekata_submission":{"$numberInt":"72"}}

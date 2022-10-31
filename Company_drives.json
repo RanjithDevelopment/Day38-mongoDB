@@ -1,0 +1,5 @@
+{"_id":{"$oid":"6351205f78665759dfb089b8"},"company_id":{"$numberInt":"5"},"companyName":"Wipro","designation":"Blockchain Developer","Salary":"6 LPA","date":"1 oct-2020"}
+{"_id":{"$oid":"6351205f78665759dfb089b7"},"company_id":{"$numberInt":"4"},"companyName":"Zoho","designation":"Frontend Developer","Salary":"4 LPA","date":"5 oct-2020"}
+{"_id":{"$oid":"6351205f78665759dfb089b6"},"company_id":{"$numberInt":"3"},"companyName":"Zensar","designation":"MernStack Developer","Salary":"5 LPA","date":"19 oct-2020"}
+{"_id":{"$oid":"6351205f78665759dfb089b5"},"company_id":{"$numberInt":"2"},"companyName":"Tcs","designation":"backend Developer","Salary":"4 LPA","date":"30 oct-2020"}
+{"_id":{"$oid":"6351205f78665759dfb089b4"},"company_id":{"$numberInt":"1"},"companyName":"Hcl","designation":"Frontend Developer","Salary":"4 LPA","date":"15 oct-2020"}

@@ -1,0 +1,15 @@
+{"_id":{"$oid":"635129af78665759dfb08a5a"},"Student_id":{"$numberInt":"15"},"submitted":{"$numberInt":"87"}}
+{"_id":{"$oid":"635129af78665759dfb08a59"},"Student_id":{"$numberInt":"14"},"submitted":{"$numberInt":"20"}}
+{"_id":{"$oid":"635129af78665759dfb08a58"},"Student_id":{"$numberInt":"13"},"submitted":{"$numberInt":"150"}}
+{"_id":{"$oid":"635129af78665759dfb08a57"},"Student_id":{"$numberInt":"12"},"submitted":{"$numberInt":"59"}}
+{"_id":{"$oid":"635129af78665759dfb08a56"},"Student_id":{"$numberInt":"11"},"submitted":{"$numberInt":"62"}}
+{"_id":{"$oid":"635129af78665759dfb08a55"},"Student_id":{"$numberInt":"10"},"submitted":{"$numberInt":"56"}}
+{"_id":{"$oid":"635129af78665759dfb08a54"},"Student_id":{"$numberInt":"9"},"submitted":{"$numberInt":"45"}}
+{"_id":{"$oid":"635129af78665759dfb08a53"},"Student_id":{"$numberInt":"8"},"submitted":{"$numberInt":"100"}}
+{"_id":{"$oid":"635129af78665759dfb08a52"},"Student_id":{"$numberInt":"7"},"submitted":{"$numberInt":"66"}}
+{"_id":{"$oid":"635129af78665759dfb08a51"},"Student_id":{"$numberInt":"6"},"submitted":{"$numberInt":"77"}}
+{"_id":{"$oid":"635129af78665759dfb08a50"},"Student_id":{"$numberInt":"5"},"submitted":{"$numberInt":"90"}}
+{"_id":{"$oid":"635129af78665759dfb08a4f"},"Student_id":{"$numberInt":"4"},"submitted":{"$numberInt":"90"}}
+{"_id":{"$oid":"635129af78665759dfb08a4e"},"Student_id":{"$numberInt":"3"},"submitted":{"$numberInt":"82"}}
+{"_id":{"$oid":"635129af78665759dfb08a4d"},"Student_id":{"$numberInt":"2"},"submitted":{"$numberInt":"60"}}
+{"_id":{"$oid":"635129af78665759dfb08a4c"},"Student_id":{"$numberInt":"1"},"submitted":{"$numberInt":"72"}}
